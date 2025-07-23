@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OlgaDRB/Production.git/static/css/main.bf02b896.css",
-    "main.js": "/OlgaDRB/Production.git/static/js/main.c0728c49.js",
-    "static/js/453.670e15c7.chunk.js": "/OlgaDRB/Production.git/static/js/453.670e15c7.chunk.js",
-    "index.html": "/OlgaDRB/Production.git/index.html",
-    "main.bf02b896.css.map": "/OlgaDRB/Production.git/static/css/main.bf02b896.css.map",
-    "main.c0728c49.js.map": "/OlgaDRB/Production.git/static/js/main.c0728c49.js.map",
-    "453.670e15c7.chunk.js.map": "/OlgaDRB/Production.git/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/Production/static/css/main.bf02b896.css",
+    "main.js": "/Production/static/js/main.44e479d6.js",
+    "static/js/453.670e15c7.chunk.js": "/Production/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Production/index.html",
+    "main.bf02b896.css.map": "/Production/static/css/main.bf02b896.css.map",
+    "main.44e479d6.js.map": "/Production/static/js/main.44e479d6.js.map",
+    "453.670e15c7.chunk.js.map": "/Production/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf02b896.css",
-    "static/js/main.c0728c49.js"
+    "static/js/main.44e479d6.js"
   ]
 }
